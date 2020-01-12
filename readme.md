@@ -1,1 +1,1 @@
-# Develop To-Do App with Golang and Angular series
+# Develop To-Do App with Golang and Angular UI.
