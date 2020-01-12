@@ -1,1 +1,1 @@
-# Develop To-Do App with Golang and Angular UI.
+# To-Do App with Go and Angular UI.
