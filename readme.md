@@ -8,3 +8,4 @@ Unit Testing: Testbed
 Log Management: https://manage.auth0.com/dashboard/us/dev-lyp73-mq/apis/5e1b3c72a7eadd0779645e24/settings
 Setup:
 To run this program set your GO environment, install angular or pull the docker image and run.
+Server running on Go backend localhost:3000 and UI localhost:4200
