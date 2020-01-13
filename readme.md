@@ -1,5 +1,5 @@
 # To-Do App with Go and Angular UI.
-Aim: A simple TODO list with CRUD operations, in-memory database(mocking a real database).
+Aim: A simple TODO list CRUD operations with completed & Incomplete lists, in-memory database(mocking a real database).
 Stacks: Golang: Backend, Angular: UI.
 Framework: Gin, a web application framework.
 Plugins: github.com/Pungyeon/golang-auth0-example, gopkg.in/square/go-jose.v2, github.com/gin-gonic/gin
